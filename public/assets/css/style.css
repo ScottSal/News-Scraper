@@ -1,0 +1,43 @@
+body {
+    background-color: #737070;
+} 
+ 
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+
+.btn {
+    margin-right: 5px;
+}
+
+.btn-home {
+    margin-left: -15px;
+}
+
+.btn-sm {
+    float: right !important;
+}
+
+.card {
+    padding-bottom: -5px;
+    margin: 5px;
+}
+
+.jumbotron, .card {
+    background-color: #B5B1B1;
+}
